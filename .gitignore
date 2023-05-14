@@ -1,3 +1,7 @@
+# large data files
+
+data/county_market_tracker*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
