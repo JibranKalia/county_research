@@ -1,4 +1,5 @@
 # large data files
+.DS_Store
 
 data/county_market_tracker*
 
