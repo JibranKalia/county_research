@@ -13,6 +13,7 @@
       "statusBar.foreground" : "#BFC0C0",
       "statusBar.border": "#004225",
       "tab.border": "#004225"
-    }
+    },
+    "python.formatting.provider": "black"
   }
 }
