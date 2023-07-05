@@ -66,3 +66,7 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Temporary files
+~$*
+
