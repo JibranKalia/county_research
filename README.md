@@ -16,7 +16,7 @@ It spits out `data/redfin_county_data_2023-05.xslx`.
 Then AverageRedfinData.ipynb takes that averages the values on a one month, 3 month, 6 month horizon.
 Its output file is: `processed/redfin_month_rollup_2023-05.xslx` 
 
-Then CombineDate,pyn merges it
+Then CombineDate,py merges it
 
 
 ## Updating Base Data:
